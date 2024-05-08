@@ -1,16 +1,7 @@
 # script_to_wavfiles
 
-A new Flutter project.
+스크립트 문서 파일을 , Nuance API를 활용하여
+TTS를 실현.
+string to wavfile로 파일을 만들어 주는 변환 Tool
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+자세한건 레포지토리 내 pptx 참고.
